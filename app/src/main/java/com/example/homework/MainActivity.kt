@@ -6,6 +6,8 @@ import android.os.Bundle
 import android.widget.Button
 import kotlin.jvm.java
 
+// Домашнее задание Спринт 3. Переходы между экранами
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
